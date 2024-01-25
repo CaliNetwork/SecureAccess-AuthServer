@@ -20,6 +20,10 @@ No virus, guaranteed
 
 # How to use it
 
+`bun src/index.ts`
+
+will do bundle probably later
+
 > para
 
 -i/--setup: setup the server
