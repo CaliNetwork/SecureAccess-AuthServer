@@ -21,5 +21,7 @@ No virus, guaranteed
 # How to use it
 
 > para
+
 -i/--setup: setup the server
+
 -v/--verbose: show verbose
