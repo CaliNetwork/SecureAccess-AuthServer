@@ -1,2 +1,15 @@
-# SecureAccessServer
-SecureAccess is a robust and comprehensive software solution designed to manage a vast array of devices. It serves as a proprietary alternative to the traditional SSH (Secure Shell) protocol.
+# Elysia with Bun runtime
+
+## Getting Started
+To get started with this template, simply paste this command into your terminal:
+```bash
+bun create elysia ./elysia-example
+```
+
+## Development
+To start the development server run:
+```bash
+bun run dev
+```
+
+Open http://localhost:3000/ with your browser to see the result.
