@@ -4,11 +4,7 @@ A simple TOTP server for security.
 
 # How to use it
 
-`bun src/index.ts`
-
-will do bundle probably later
-
-> para
+`bun src/index.ts` with `action` and `-p/--para`
 
 ## add 
 
