@@ -1,6 +1,13 @@
 SecureAccess™ Server
 ===
-A simple TOTP server for security.
+
+TODOs
+
+- [x] Simple TOTP server.
+- [ ] GRPC TUN and RCP(Remote CLI Protocol)
+- [ ] GRPC TUN and RNP™(Remote Networking Protocol)
+- [ ] Rainy Dashboard™(Remote control, Package management, monitor...)
+- [ ] Auth Socket for Linux APPs
 
 # How to use it
 
